@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\OutlookAddIn\OutlookAddIn\obj\Debug\OutlookAddIn.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OutlookAddIn\OutlookAddIn\obj\Debug\OutlookAddIn.csproj.CoreCompileInputs.cache

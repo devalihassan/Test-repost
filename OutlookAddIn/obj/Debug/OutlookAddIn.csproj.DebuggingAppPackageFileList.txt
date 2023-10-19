@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookAddInManifest.xml
+C:\Users\HP\source\repos\OutlookAddIn\OutlookAddIn\bin\Debug\OutlookAddIn.debugapp
